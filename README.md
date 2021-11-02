@@ -9,6 +9,9 @@ You can see the description of the book. Clicking on the cover shows the preview
 
 ![ScreenShot](public/cap2.PNG)
 
+Link to deployed app on Firebase:
+https://react-project-62ac1.web.app
+
 # Built with
 * HTML
 * CSS
