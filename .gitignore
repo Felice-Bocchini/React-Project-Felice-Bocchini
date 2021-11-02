@@ -5,7 +5,7 @@
 
 /config
 /coverage
-/.firebase
+/firebase
 /build
 .firebaserc
 .firebase.json
